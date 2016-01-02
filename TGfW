@@ -31,6 +31,13 @@
         <img class="homepage-bg animate fadeOut" data-wow-delay="200ms" src="images/misc/homepage_image.png" alt="img">
         <img class="homepage-bg-blured"  data-wow-delay="1s" src="images/misc/homepage_image_blured.png" alt="img">
     </div>
+    <div class="header">
+     	<a class="header-home" href="index.html"><i class="fa fa-home"></i></a>
+     	<a class="header-phone" href="tel:+123456789"><i class="fa fa-phone"></i></a>
+     	<a class="header-logo" href="index.html">
+        	<img src="images/logo-dark.png" alt="img">
+     	</a>
+    </div>
 </div>
 <script language="javascript">
 var era= new Array(9);
