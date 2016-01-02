@@ -3,19 +3,20 @@
         <title>App List Test</title>
 	</head>
 	<body>
-		<div class="homepage">
-			<div class="homepage-elements">
+	<div class="homepage">
+		<div class="homepage-elements">
         		<a class="homepage-logo animate fadeInDownBig" href="#">
-            		<img src="images/logo.png" alt="img">
-        		</a>
+        			 <img src="images/logo.png" alt="img">
+			 </a>
+        
         <div class="homepage-decoration animate fadeIn" data-wow-delay="100ms"></div>   
-        <ul>
-            <li class="animate fadeInLeftBig" data-wow-delay="100ms"><a href="homepage.html">Home</a></li>
-            <li class="animate fadeInLeftBig" data-wow-delay="200ms"><a href="features.html">Features</a></li>
-            <li class="animate fadeInLeftBig" data-wow-delay="300ms"><a href="gallery.html">Galleries</a></li>
-            <li class="animate fadeInLeftBig" data-wow-delay="400ms"><a href="portfolio.html">Portfolio</a></li>
-            <li class="animate fadeInLeftBig" data-wow-delay="500ms"><a href="contact.html">Get in touch</a></li>                 
-        </ul>
+        	<ul>
+            	<li class="animate fadeInLeftBig" data-wow-delay="100ms"><a href="homepage.html">Home</a></li>
+            	<li class="animate fadeInLeftBig" data-wow-delay="200ms"><a href="features.html">Features</a></li>
+            	<li class="animate fadeInLeftBig" data-wow-delay="300ms"><a href="gallery.html">Galleries</a></li>
+            	<li class="animate fadeInLeftBig" data-wow-delay="400ms"><a href="portfolio.html">Portfolio</a></li>
+            	<li class="animate fadeInLeftBig" data-wow-delay="500ms"><a href="contact.html">Get in touch</a></li>                 
+        	</ul>
      
         <div class="homepage-decoration animate fadeIn" data-wow-delay="300ms"></div>
         
