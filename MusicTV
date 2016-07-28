@@ -1,4 +1,4 @@
-Splash Page
+//Splash Page
 <!DOCTYPE html>
 <html>
 <head>
@@ -28,7 +28,7 @@ return}
 
 </body>
 </html>
-Start Page
+//Start Page
 <!DOCTYPE html>
 <html>
   <head>
@@ -82,7 +82,7 @@ Start Page
         </form>        
    		</body>
 </html>
-TGW Page
+//TGW Page
 <!DOCTYPE html>
 <html>
   <head>
@@ -98,7 +98,7 @@ TGW Page
           <p>An app for Authors, Playwrights and Screenwriters offering them 42 trillion unique themes for their next writing project.</p>
    		</body>
 </html>
-Limo Book
+//Limo Book
 <!DOCTYPE html>
 <html>
   <head>
@@ -124,7 +124,7 @@ Limo Book
         </form>
    		</body>
 </html>
-Black Book Page
+//Black Book Page
 <!DOCTYPE html>
 <html>
   <head>
@@ -150,7 +150,7 @@ Black Book Page
         </form>
    		</body>
 </html>
-HTML Page
+//HTML Page
 <!DOCTYPE html>
 <html>
   <head>
@@ -169,7 +169,7 @@ HTML Page
 			</div>
    		</body>
 </html>
-CSS Page
+//CSS Page
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600);
 
 * {
@@ -335,7 +335,7 @@ form{
   font-weight: 600;
   font-size: 20px;
 }
-JScript Page
+//JScript Page
 // Array of all the questions and choices to populate the questions. This might be saved in some JSON file or a database and we would have to read the data in.
 var all_questions = [{
 question_string:"INXS singer Michael Hutchence says “trumpet” just before this instrument kicks in on “New Sensation”.",
@@ -4192,7 +4192,7 @@ $(document).ready(function() {
   var quiz_container = $('#quiz');
   quiz.render(quiz_container);
 });
-Contact Page
+//Contact Page
 <DOCTYPE html>
 	<html lang="en">
 		<head>
